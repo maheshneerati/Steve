@@ -9,7 +9,7 @@ using System.Data.SqlClient;
 
 public partial class Visitor : System.Web.UI.Page
 {
-    string imgurl = "http://localhost:63434/Images/beach-2179183_640.jpg";
+    string imgurl = "http://localhost:63434/Images/france_river_lake_215018.jpg";
     protected void Page_Load(object sender, EventArgs e)
     {
 
